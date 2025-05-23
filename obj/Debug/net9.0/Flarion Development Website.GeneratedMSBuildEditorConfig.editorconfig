@@ -28,8 +28,12 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alper/source/repos/Flarion Development Website/Flarion Development Website/Layout/Header.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEhlYWRlci5yYXpvcg==
+[C:/Users/alper/source/repos/Flarion Development Website/Flarion Development Website/Pages/Admin/Settings.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cU2V0dGluZ3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alper/source/repos/Flarion Development Website/Flarion Development Website/Pages/Admin/Users.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/alper/source/repos/Flarion Development Website/Flarion Development Website/Pages/Counter.razor]
@@ -47,6 +51,14 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/alper/source/repos/Flarion Development Website/Flarion Development Website/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alper/source/repos/Flarion Development Website/Flarion Development Website/Layout/AdminLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEFkbWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-awt1not2s6
+
+[C:/Users/alper/source/repos/Flarion Development Website/Flarion Development Website/Layout/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEhlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-vv2jwjzh3b
 
 [C:/Users/alper/source/repos/Flarion Development Website/Flarion Development Website/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=

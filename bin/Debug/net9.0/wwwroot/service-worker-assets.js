@@ -1,17 +1,17 @@
 self.assetsManifest = {
-  "version": "9EBwaKB5",
+  "version": "e6jo0f9/",
   "assets": [
     {
-      "hash": "sha256-GIqcs7FZMDEUPDTrLVd3AkZIUfyxNtHP+db7LYyrCnE=",
+      "hash": "sha256-o9+0ehxNOgE16muPFZS8QcX0CCsp+JVVB5owBtt/6w0=",
       "url": "Flarion Development Website.styles.css"
     },
     {
-      "hash": "sha256-s2hgaKSIr7B+mprBGivTFVZj1cDC8hfKDbWQIAK7iQ8=",
-      "url": "_framework/Flarion Development Website.f5bdf8yphb.wasm"
+      "hash": "sha256-RTGp8PE8ZBPmw905TEDWZL9PTCssFJ7hdC7jmKdVeek=",
+      "url": "_framework/Flarion Development Website.36ifp3y4ay.wasm"
     },
     {
-      "hash": "sha256-utuoXJMOvV/SnHeM3O5u1WZBmUxd0vaBv0kkyQJY5e0=",
-      "url": "_framework/Flarion Development Website.mk6co4l632.pdb"
+      "hash": "sha256-M/z9O/hSre3yFEVTN6TsKfGSwEs+F1UIGiVWcOmOh3g=",
+      "url": "_framework/Flarion Development Website.luo4hbvgn6.pdb"
     },
     {
       "hash": "sha256-bZI3l2tb4nrkmIrNiXtsJx0hK5NmMKjbxScyGppJRRc=",
@@ -770,7 +770,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.pe1q66fox7.wasm"
     },
     {
-      "hash": "sha256-5Wl3WFxgbeq3xmu8jVKJU+g+XZNNkY4r22+YvyxXdEo=",
+      "hash": "sha256-nHd541pX3gr5DIbN69HhxZH7a4Sxc8qh8ZXwUc+ear0=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -826,12 +826,16 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-oSLR3IqKkwnOoYfHJsWyj4k06tNlEOQclRtyylc6sqU=",
-      "url": "css/style.scss"
-    },
-    {
       "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
       "url": "favicon.png"
+    },
+    {
+      "hash": "sha256-TL3YY6M7ftiNBTx9rHd4WESGcZOge120JNZT2kWDiP4=",
+      "url": "fonts.css"
+    },
+    {
+      "hash": "sha256-NxHScMcC1D8+rKaF68Bfqq2frxThT1pOKALkc5h6J64=",
+      "url": "fonts.scss"
     },
     {
       "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
@@ -842,7 +846,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-bgrBNqSHnGRISmwJvpHGhTNQZ/Y6MJ/wgekVPrPsTL0=",
+      "hash": "sha256-jItSS6/URlkSjP7zTh1o7RjIrXubRWypWMsX65G+YgQ=",
       "url": "index.html"
     },
     {
@@ -1028,6 +1032,14 @@ self.assetsManifest = {
     {
       "hash": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=",
       "url": "sample-data/weather.json"
+    },
+    {
+      "hash": "sha256-uccvJjpE/mfQJblIppQO+Fk1GJwtDDl6A/3eenYUgNM=",
+      "url": "style.css"
+    },
+    {
+      "hash": "sha256-QQ2m+i+yjieEFIrFyMCH6TKBZnZ6NK0y1pGOe8wTHWw=",
+      "url": "style.scss"
     }
   ]
 };

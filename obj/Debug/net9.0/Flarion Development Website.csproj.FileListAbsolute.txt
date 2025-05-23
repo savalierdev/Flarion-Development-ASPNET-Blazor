@@ -1066,22 +1066,27 @@ C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Webs
 C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\Flarion .CDE07FD1.Up2Date
 C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\Flarion Development Website.dll
 C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\refint\Flarion Development Website.dll
 C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\Flarion Development Website.pdb
 C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\ref\Flarion Development Website.dll
 C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\xguoxpd285-w1xnda7phq.gz
-C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\bin\Debug\net9.0\wwwroot\_framework\Flarion Development Website.f5bdf8yphb.wasm
-C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\bin\Debug\net9.0\wwwroot\_framework\Flarion Development Website.mk6co4l632.pdb
-C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\bin\Debug\net9.0\wwwroot\_framework\Flarion Development Website.f5bdf8yphb.wasm.gz
-C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\bin\Debug\net9.0\wwwroot\_framework\Flarion Development Website.mk6co4l632.pdb.gz
-C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\dl0dppag95-gudoyvbpg8.gz
-C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\buhtkf1esl-gudoyvbpg8.gz
-C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\czyjsijjb6-f5bdf8yphb.gz
-C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\04vxqkmvup-mk6co4l632.gz
-C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\al5bzycp6z-f7piqzwe38.gz
-C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\05rwlybfuf-m6khawccoy.gz
-C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\db9yqf1dw5-5nu9gnd82s.gz
-C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\06z40alvkv-vn34let2b9.gz
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\bin\Debug\net9.0\package-lock.json
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\bin\Debug\net9.0\package.json
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\Flarion Development Website.sourcelink.json
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\scopedcss\Layout\Header.razor.rz.scp.css
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\qpkhh5v6op-zt5vpobpc5.gz
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\05rwlybfuf-4mzxdn311j.gz
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\3bpa007ndj-ozrwhvixp1.gz
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\dl0dppag95-baft9tntlu.gz
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\buhtkf1esl-baft9tntlu.gz
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\bin\Debug\net9.0\wwwroot\_framework\Flarion Development Website.36ifp3y4ay.wasm
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\bin\Debug\net9.0\wwwroot\_framework\Flarion Development Website.luo4hbvgn6.pdb
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\bin\Debug\net9.0\wwwroot\_framework\Flarion Development Website.36ifp3y4ay.wasm.gz
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\bin\Debug\net9.0\wwwroot\_framework\Flarion Development Website.luo4hbvgn6.pdb.gz
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\czyjsijjb6-36ifp3y4ay.gz
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\04vxqkmvup-luo4hbvgn6.gz
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\al5bzycp6z-saqlkfucwi.gz
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\db9yqf1dw5-m63w7dtgm1.gz
+C:\Users\alper\source\repos\Flarion Development Website\Flarion Development Website\obj\Debug\net9.0\compressed\06z40alvkv-g2c9f0ronm.gz

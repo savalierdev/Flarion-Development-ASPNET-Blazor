@@ -1,0 +1,37 @@
+header {
+    min-height: 100px;
+    width: 100vw;
+}
+
+// Existing styles
+header > .container-fluid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+
+#buttons {
+    display: flex;
+    gap: 1rem;
+}
+
+nav > ul{
+    display: flex;
+    gap: 1rem;
+}
+
+nav > ul > li {
+    list-style: none;
+}
+
+p {
+    color: mediumvioletred;
+}
+
+
+@media screen and (max-width: 768px) {
+    #desktop-nav {
+        display: none;
+    }
+}

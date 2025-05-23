@@ -6,7 +6,26 @@
     <NotFound>
         <PageTitle>Not found</PageTitle>
         <LayoutView Layout="@typeof(MainLayout)">
-            <p role="alert">Sorry, there's nothing at this address.</p>
+            <p role="alert">Üzgünüz Bu sayfa mevcut değil.</p>
+            <button @onclick="redir_home">Tıkla Ve Geri Dön</button>
         </LayoutView>
     </NotFound>
 </Router>
+
+
+@using Microsoft.AspNetCore.Components
+@inject NavigationManager Navigation
+
+@code {
+    public void redir_home()
+    {
+        // This method is called when the button is clicked.
+        // It redirects the user to the home page.
+        Navigation.NavigateTo("/");
+    }
+
+    // This is the main component of the Blazor application.
+    // It sets up routing and handles navigation between different pages.
+    // The Router component is responsible for rendering the appropriate page based on the current URL.
+    // The Found and NotFound components handle the cases where a matching route is found or not found, respectively.
+}

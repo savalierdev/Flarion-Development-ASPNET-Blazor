@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Flarion Development Website")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a9cf1a276679b45ea882d687c423ffd6479d9f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Flarion Development Website")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Flarion Development Website")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

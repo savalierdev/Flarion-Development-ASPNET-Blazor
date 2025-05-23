@@ -1,0 +1,17 @@
+@inherits LayoutComponentBase
+
+<div class="admin-layout">
+    <div class="sidebar">
+        @* Sidebar content goes here *@
+        <h2>Admin Sidebar</h2>
+        <ul>
+            <li><NavLink href="/admin/dashboard">Dashboard</NavLink></li>
+            <li><NavLink href="/admin/users">Users</NavLink></li>
+            <li><NavLink href="/admin/settings">Settings</NavLink></li>
+        </ul>
+    </div>
+
+    <div class="main-content">
+        @Body
+    </div>
+</div>
